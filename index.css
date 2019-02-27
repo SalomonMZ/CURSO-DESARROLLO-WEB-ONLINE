@@ -1,0 +1,31 @@
+/* reglas: se conforman por selctores, declaraciones, propiedades y valores
+selectores: son como se identifican los elementos html
+declaraciones: lo que se hace con el selector
+propiedades: cosas particulares que se pueden hacer con los elementos
+valores: los datos que esperan las propiedades */
+
+header {
+    background: rgb(211, 93, 57);
+}
+
+/*selector de etiqueta: header, section, nav,*/
+/*selector descendente*/
+/*selector de clase .*/
+/*.link*/
+/*selector de id #*/
+/*#portafolio */
+
+body {
+    font-family: 'Raleway', sans-serif;   
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Laila', serif;
+    font-weight: normal;
+}
+
+h1 {
+    font-size: 40px;
+    line-height: 60px;
+    letter-spacing: -2px
+}
